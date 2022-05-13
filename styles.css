@@ -1,0 +1,185 @@
+body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+div.darkblue{
+    background-color: #1F2937;
+    padding: 10px 200px 150px 200px;
+}
+div.topheader{
+    display: flex;
+    direction: row;
+    justify-content: space-between;
+    margin-bottom: 80px;
+}
+div.toppart{
+    display: flex;
+    justify-content: space-between;
+    direction: row;
+}
+div.headerrow{
+    display: flex;
+    direction: row;
+}
+.whitefont{
+    font-family: 'Roboto', sans-serif;
+    color: #F9FAF8;
+    font-weight: 900;
+    font-size: 48px;
+}
+div.body{
+    padding: 0px 40px 0px 40px;
+}
+.herosecondary{
+    font-size: 18px;
+    color: #E5E7EB;
+    font-family: 'Roboto', sans-serif;
+}
+img.images{
+    width: 564px;
+    height: 375.9px;
+}
+.headerlogo{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+.margin10{
+    padding: 10px;
+}
+button.btn{
+    background-color: #3882F6;
+    border-radius: 12px;
+    padding: 10px 20px;
+    border: none;
+    font-family: "Roboto", sans-serif;
+    font-size: 22px;
+    font-weight: 600;
+    color: #E5E7EB;
+}
+h2.blackh2{
+    font-family: "Roboto", sans-serif;
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+}
+
+div.squares{
+    display: flex;
+    flex-direction: row;
+   justify-content: center;
+   margin-bottom: 100px;
+}
+div.center{
+    margin: 50px;
+}
+div.bluesquare{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: #3882F6;
+    border-width: 4px;
+}
+div.bluesquaresubtext{
+    margin: 0px 30px 0px 30px;
+}
+div.subtextdiv{
+    width: 150px;
+}
+p.subtext{
+    font-family: "Roboto", sans-serif;
+}
+div.quotepart{
+    background-color: #E5E7EB;
+    height: 400px;
+}
+h3.quotetext{
+    font-size: 36px;
+    font: italic;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    color: #1F2937
+}
+div.quote{
+    
+    padding-top: 70px;
+    margin: auto;
+    width: 1000px;
+    
+}
+div.thor{
+    
+    margin: auto;
+    width: 1000px;
+}
+h4.thortext{
+    text-align: right;
+    font-size: 24px;
+    font-family: "Roboto", sans-serif;
+}
+div.calltoactionpart{
+    height: 200px;
+    width: 100%;
+    padding: 75px 0px 75px 0px;
+}
+div.bigbluediv{
+    height: 150px;
+    width: 1000px;
+    background-color: #3882F6;
+    margin: auto;
+    border-radius: 15px;
+    padding: 10px 100px 10px 100px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+p.calltoactionh5{
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    color: white;
+    margin: 0px;
+    font-weight: 900;
+    letter-spacing: 1px;
+}
+p.calltoactionsubtext{
+    font-family: "Roboto", sans-serif;
+    color: white;
+    margin: 0px;
+    font-size: 16px;
+}
+div.textsbigbluediv{
+    
+    padding: 40px;
+}
+button.ctabutton{
+    background-color: #3882F6;
+    border-radius: 12px;
+    border-color: white;
+    border-width: 2px;
+    padding: 10px 20px;
+    border-style: solid;
+    font-family: "Roboto", sans-serif;
+    margin: 50px;
+    font-size: 22px;
+    font-weight: 600;
+    color: #E5E7EB;
+}
+div.footer{
+    background-color: #1f2937;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+p.footertext{
+    font-family: "Roboto", sans-serif;
+    color: white;
+    line-height: 80px;
+    
+}
